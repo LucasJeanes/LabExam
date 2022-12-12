@@ -1,0 +1,4 @@
+Student Name: Lucas
+Student id: 400210024
+Student Address: ATU
+Student Age: 26
